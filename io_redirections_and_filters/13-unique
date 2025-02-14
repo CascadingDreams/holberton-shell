@@ -1,0 +1,2 @@
+#!/bin/bash
+cat unique1 | sort |uniq -u
