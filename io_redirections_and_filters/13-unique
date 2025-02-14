@@ -1,2 +1,2 @@
 #!/bin/bash
-sort --ignore-case unique1 | uniq -u
+sort --ignore-case unique1 | uniq -u > uniqueoutput.txt
